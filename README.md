@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi I'm Michelle
+
+💻 Computer Science @ uOttawa
+🏎️ Embedded pipelines and CI/CD 
+🎨 Artwork here
+
+**Tech Stack**
+Python, C++
 
 <!--
 **mchoi-cs/mchoi-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
