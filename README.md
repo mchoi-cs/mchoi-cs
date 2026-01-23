@@ -1,8 +1,9 @@
 ## Hi I'm Michelle
 
 💻 Computer Science @ uOttawa
+
 🏎️ Embedded pipelines and CI/CD 
-🎨 Artwork here
+
 
 **Tech Stack**
 Python, C++
