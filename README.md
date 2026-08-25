@@ -11,3 +11,8 @@ Outside of school I like to draw. Some of my art is on my [personal website](htt
   <br />
   <em><a href="https://circ.cstag.ca/2026/results/">CIRC 2026</a> — that's me on the right</em>
 </p>
+
+<p align="center"><img width="320" alt="IMG_0820" src="https://github.com/user-attachments/assets/578f1f70-e4b6-46e6-98c9-741bdcb5c08b" />
+  <br />
+    <em>This is me as well.</em>
+</p>
