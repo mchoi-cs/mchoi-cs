@@ -1,6 +1,6 @@
 ## Hi, I'm Michelle
 
-4th year Computer Science @ uOttawa.
+4th year Computer Science @ uOttawa, graduating April 2028. Currently working at Ericsson.
 
 I do embedded work on the robotic arm for [UORover](https://uorover.com/), and I'm a member of **uOPower**, the powerlifting club.
 
