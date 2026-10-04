@@ -8,4 +8,4 @@ I love programming because technology is the chariot that pulls human capability
 
 I do embedded work on the robotic arm for [UORover](https://uorover.com/), and I'm a member of **uOPower**, the powerlifting club.
 
-Outside of school I like to draw. Some of my art is on my [personal website](https://mchoi-cs.github.io/).
+Outside of school I like to draw. You can check out my visual studies on [charminglines](https://charminglines.vercel.app) and my gallery on [my art site](https://michellechoi-art.vercel.app).
